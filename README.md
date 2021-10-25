@@ -1,1 +1,1 @@
-runtime vimrc
+echo "runtime vimrc" >> ~/.vimrc
